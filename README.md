@@ -32,3 +32,6 @@ $ ln -s path/to/this_local_repo til.wiki
 
 ### Anvil 설치
 GUI pow 관리툴 Anvil [http://anvilformac.com/](http://anvilformac.com/)
+
+### 참
+jayjin Github
