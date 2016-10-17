@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="abc_search_hint">제품명을 입력하세요</string>
+    <string name="name">Name</string>
+    <string name="recipe">Recipe</string>
+    <string name="action_settings">Settings</string>
+</resources>
