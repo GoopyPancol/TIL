@@ -37,7 +37,7 @@ android:layout_height="match_parent"/>
 
 License
 -------
-
+```
 Copyright 2016 Qiushui
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -51,7 +51,7 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
+```
 
 [1]:https://github.com/GoopyPancol/TIL/blob/master/Android/Blur/png/blur0.jpeg
 [2]:https://github.com/GoopyPancol/TIL/blob/master/Android/Blur/png/blur100.jpeg
