@@ -4,8 +4,8 @@ BlurredView
 * 안드로이드 이미지 뷰의 blur처리 하는 방법. 이 라이브러리는 RenderScript을 기반으로합니다. 이 라이브러리에  대한 자세한 내용을 확인해 봅시다.
 
 
-![demo][]
-![demo][]
+![demo][1]
+![demo][2]
 
 
 ## Gradle
@@ -51,4 +51,8 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+[1]:https://github.com/GoopyPancol/TIL/blob/master/Android/Blur/png/blur0.jpeg
+[2]:https://github.com/GoopyPancol/TIL/blob/master/Android/Blur/png/blur100.jpeg
 
